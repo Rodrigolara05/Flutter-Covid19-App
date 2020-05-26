@@ -60,7 +60,7 @@ Para poder trabajar con el siguiente proyecto necesitas:
 ## Enlaces Externos 🔗
 ### Android 
 
-* **Descarga la APP** - [APK](https://github.com/Rodrigolara05/Flutter-Covid19-App/blob/master/git-resources/3.%20apk/Sudamerica%20Unida%20-%20Covid19.apk)
+* **Descarga la APP** - [APK](https://github.com/Rodrigolara05/Flutter-Covid19-App/tree/master/git-resources/3.%20apk)
 
 ### Tutorial 📹
 
