@@ -1,4 +1,4 @@
-# Sudamerica Unida APP
+# Sudamérica Unida APP
 
 ## Comenzando 🚀
 **Sudamérica Unida** es una aplicación movil informativa sobre el COVID-19 en America del Sur bajo la frase #QuedateEnCasa. Los paises mostrados en la aplicación son: Argentina, Bolivia, Brasil, Chile, Colombia, Ecuador,Fakland Islands, Guyane francaise, Guyana, Paraguay, Perú, Suriname, Uruguay y Venezuela. 
